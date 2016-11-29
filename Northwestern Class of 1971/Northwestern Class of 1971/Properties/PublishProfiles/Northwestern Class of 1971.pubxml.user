@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\DMurphy326\Desktop\Published Sites\NW1971</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Northwestern Class of 1971.dll">
+      <publishTime>09/15/2015 14:28:10</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>05/26/2015 13:07:00</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css.map">
+      <publishTime>05/26/2015 13:06:59</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>05/26/2015 13:06:59</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>05/27/2015 13:29:15</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>05/26/2015 13:07:00</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>05/26/2015 13:07:00</publishTime>
+    </File>
+    <File Include="Content/eBeastCustomStyleSheet.css">
+      <publishTime>07/30/2015 14:47:34</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>05/26/2015 13:06:59</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>05/26/2015 13:06:59</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>05/26/2015 13:06:59</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>05/26/2015 13:06:59</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>05/26/2015 13:06:59</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>05/26/2015 12:53:30</publishTime>
+    </File>
+    <File Include="Icon.png">
+      <publishTime>05/26/2015 13:06:59</publishTime>
+    </File>
+    <File Include="Images/Board Pics/Board1.jpg">
+      <publishTime>08/18/2015 21:41:22</publishTime>
+    </File>
+    <File Include="Images/Board Pics/Board2.jpg">
+      <publishTime>08/18/2015 21:41:21</publishTime>
+    </File>
+    <File Include="Images/Board Pics/Board3.jpg">
+      <publishTime>08/18/2015 21:41:20</publishTime>
+    </File>
+    <File Include="Images/Collage Pics/Collage1.jpg">
+      <publishTime>08/18/2015 21:27:26</publishTime>
+    </File>
+    <File Include="Images/Collage Pics/Collage2.jpg">
+      <publishTime>08/18/2015 21:27:26</publishTime>
+    </File>
+    <File Include="Images/Collage Pics/Collage3.jpg">
+      <publishTime>08/18/2015 21:27:26</publishTime>
+    </File>
+    <File Include="Images/Generic/024.jpg">
+      <publishTime>08/18/2015 21:49:45</publishTime>
+    </File>
+    <File Include="Images/Generic/025.jpg">
+      <publishTime>08/18/2015 21:49:43</publishTime>
+    </File>
+    <File Include="Images/Generic/026.jpg">
+      <publishTime>08/18/2015 21:49:42</publishTime>
+    </File>
+    <File Include="Images/Generic/BobcatsWildcatsMascot.jpg">
+      <publishTime>07/30/2015 14:25:26</publishTime>
+    </File>
+    <File Include="Images/Generic/Cside Wildcat black.jpg">
+      <publishTime>07/06/2015 14:16:30</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>07/06/2015 10:52:35</publishTime>
+    </File>
+    <File Include="Pages/Contacts.aspx">
+      <publishTime>08/18/2015 21:41:23</publishTime>
+    </File>
+    <File Include="Pages/Home.aspx">
+      <publishTime>08/18/2015 21:14:40</publishTime>
+    </File>
+    <File Include="Pages/News.aspx">
+      <publishTime>08/18/2015 21:49:45</publishTime>
+    </File>
+    <File Include="Pages/NW71 Master.Master">
+      <publishTime>08/18/2015 21:52:02</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>05/26/2015 13:06:59</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>05/26/2015 13:06:59</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.1.4.js">
+      <publishTime>07/06/2015 10:52:35</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.1.4.min.js">
+      <publishTime>07/06/2015 10:52:34</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.1.4.min.map">
+      <publishTime>07/06/2015 10:52:34</publishTime>
+    </File>
+    <File Include="Scripts/npm.js">
+      <publishTime>05/26/2015 13:06:59</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/15/2015 14:28:10</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

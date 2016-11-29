@@ -1,0 +1,38 @@
+﻿html {
+    position: relative;
+    min-height: 100%;
+}
+
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    //height: 100px;
+    width: 100%;
+    background-color: lightgrey;
+}
+
+.row-centered {
+    text-align:center;
+}
+
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:left;
+    /* inline-block space fix */
+    margin-right:-4px;
+}
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
+.jumbotron {
+    text-align: center;
+}
+
+.jumbotron > p {
+    margin : auto;
+}
