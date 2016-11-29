@@ -1,0 +1,5 @@
+C:\Users\DMurphy326\Desktop\Personal\User Interface\Projects\Northwestern Class of 1971\Northwestern Class of 1971\bin\Northwestern Class of 1971.dll.config
+C:\Users\DMurphy326\Desktop\Personal\User Interface\Projects\Northwestern Class of 1971\Northwestern Class of 1971\bin\Northwestern Class of 1971.dll
+C:\Users\DMurphy326\Desktop\Personal\User Interface\Projects\Northwestern Class of 1971\Northwestern Class of 1971\bin\Northwestern Class of 1971.pdb
+C:\Users\DMurphy326\Desktop\Personal\User Interface\Projects\Northwestern Class of 1971\Northwestern Class of 1971\obj\Release\Northwestern Class of 1971.dll
+C:\Users\DMurphy326\Desktop\Personal\User Interface\Projects\Northwestern Class of 1971\Northwestern Class of 1971\obj\Release\Northwestern Class of 1971.pdb
